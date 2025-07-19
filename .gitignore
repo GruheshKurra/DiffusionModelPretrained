@@ -1,0 +1,36 @@
+     1	# Model files (too large for GitHub)
+     2	*.pth
+     3	*.pt
+     4	*.bin
+     5	*.safetensors
+     6	
+     7	# Data files
+     8	data/
+     9	checkpoints/
+    10	*.zip
+    11	
+    12	# Python
+    13	__pycache__/
+    14	*.py[cod]
+    15	*$py.class
+    16	.Python
+    17	build/
+    18	dist/
+    19	*.egg-info/
+    20	
+    21	# Jupyter Notebook
+    22	.ipynb_checkpoints
+    23	
+    24	# Environment
+    25	.env
+    26	.venv
+    27	env/
+    28	venv/
+    29	
+    30	# IDE
+    31	.vscode/
+    32	.idea/
+    33	
+    34	# OS
+    35	.DS_Store
+    36	Thumbs.db
